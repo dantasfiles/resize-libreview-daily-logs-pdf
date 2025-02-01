@@ -3,7 +3,7 @@ layout: home
 ---
 # Resize [LibreView's](https://www.libreview.com/) Daily Logs PDF for easier reading & printing
 
-For full instructions, see Substack.
+For full instructions, see https://dantasfiles.substack.com/p/resize-libreviews-daily-logs-pdf
   
 <input type="file" id="pdfInput" accept="application/pdf">
 
