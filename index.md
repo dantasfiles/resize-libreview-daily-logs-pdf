@@ -15,4 +15,6 @@ For full instructions, see Substack.
 
 <script src="resize-libreview-daily-logs-pdf.js"></script>
 
+---
+
 # [← Return to Dantas Files](https://dantasfiles.com/)
