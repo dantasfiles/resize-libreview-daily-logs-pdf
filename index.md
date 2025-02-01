@@ -13,6 +13,6 @@ For full instructions, see Substack.
 
 <script src="https://cdn.jsdelivr.net/npm/pdf-lib@1.17.1/dist/pdf-lib.min.js"></script>
 
-<script src="resize-libreview-daily-logs-pdf.js">
+<script src="resize-libreview-daily-logs-pdf.js"></script>
 
 # [← Return to Dantas Files](https://dantasfiles.com/)
