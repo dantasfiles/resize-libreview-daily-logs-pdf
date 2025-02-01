@@ -11,8 +11,11 @@ For full instructions, see Substack.
 
 ## <a id="downloadLink" style="display: none;" download="output.pdf">Download resized Daily Logs PDF</a>
 
-<script src="https://cdn.jsdelivr.net/npm/pdf-lib@1.17.1/dist/pdf-lib.min.js"></script>
+---
 
-<script src="resize-libreview-daily-logs-pdf.js"></script>
+The source code is at https://github.com/dantasfiles/resize-libreview-daily-logs-pdf/
 
 # [← Return to Dantas Files](https://dantasfiles.com/)
+
+<script src="https://cdn.jsdelivr.net/npm/pdf-lib@1.17.1/dist/pdf-lib.min.js"></script>
+<script src="resize-libreview-daily-logs-pdf.js"></script>
