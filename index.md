@@ -11,9 +11,9 @@ For full instructions, see Substack.
 
 ## <a id="downloadLink" style="display: none;" download="output.pdf">Download resized Daily Logs PDF</a>
 
----
+***
 
-The source code is at https://github.com/dantasfiles/resize-libreview-daily-logs-pdf/
+The source code is at [https://github.com/dantasfiles/resize-libreview-daily-logs-pdf/](https://github.com/dantasfiles/resize-libreview-daily-logs-pdf/)
 
 # [← Return to Dantas Files](https://dantasfiles.com/)
 
